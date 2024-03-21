@@ -6,7 +6,7 @@
 
 - we are currently leading in the testing phase！
 
-  ![rank](.\figs\rank.png)
+  ![rank](https://github.com/wangchx67/SYSU-FVL-T2/figs/rank.png)
 
 ## Description
 
