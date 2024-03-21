@@ -29,15 +29,15 @@ You can follow the step of MIRNet-v2 in [here](https://github.com/swz30/MIRNetv2
 1. Clone our repository
 
 ```
-git clone https://github.com/swz30/MIRNetv2.git
-cd MIRNetv2
+git clone [https://github.com/swz30/MIRNetv2.git](https://github.com/wangchx67/SYSU-FVL-T2.git)
+cd SYSU-FVL-T2
 ```
 
 2. Make conda environment
 
 ```
-conda create -n pytorch111 python=3.7
-conda activate pytorch111
+conda create -n SYSU-FVL-T2 python=3.7
+conda activate SYSU-FVL-T2
 ```
 
 3. Install dependencies
