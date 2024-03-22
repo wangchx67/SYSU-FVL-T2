@@ -45,7 +45,7 @@ conda activate sysuenv
 3. Install dependencies
 
 ```
-conda install pytorch=1.11 torchvision cudatoolkit=10.2 -c pytorch # if you are using A6000, you need to upgrade torch to >=1.13
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu111
 pip install matplotlib scikit-learn scikit-image opencv-python yacs joblib natsort h5py tqdm
 pip install einops gdown addict future lmdb numpy pyyaml requests scipy tb-nightly yapf lpips
 ```
