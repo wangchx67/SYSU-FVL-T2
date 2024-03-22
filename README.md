@@ -1,6 +1,7 @@
 # The solution of team SYSU-FVL-T2 for [NTIRE 2024 Low Light Enhancement Challenge](https://codalab.lisn.upsaclay.fr/competitions/17640#learn_the_details)
 
 **Hongjun Li***,**Chenxi Wang***, **Haitao Lin**, **Zhi jin**
+
 *: contribute equally
 
 ## News:
@@ -79,7 +80,7 @@ cd Enhancement
 python test.py --input_dir [your input data path]
 ```
 
-the results will be saved in `Enhancement/results/NtireLL`, also, the final result can be found in here
+the results will be saved in `Enhancement/results/NtireLL`, also, the final result can be downloaded [here]([url](https://drive.google.com/file/d/1ntT2aAxnMQr3lioxtiwbyuJyVaVb07Sd/view?usp=drive_link))
 
 ## Acknowledgments
 
