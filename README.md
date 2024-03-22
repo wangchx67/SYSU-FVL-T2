@@ -18,7 +18,7 @@ Jointly with NTIRE workshop we have an NTIRE challenge on low light enhancement,
 
 The aim is to obtain a network design / solution capable to produce high quality results with the best perceptual quality and similar to the reference ground truth.
 
-**As one of the participating teams, . This project document outlines the algorithmic solution adopted by our team.**
+**As one of the participating teams. This project document outlines the algorithmic solution adopted by our team.**
 
 ## About The Project
 
@@ -80,7 +80,7 @@ cd Enhancement
 python test.py --input_dir [your input data path]
 ```
 
-the results will be saved in `Enhancement/results/NtireLL`, also, the final result can be downloaded [here](https://drive.google.com/file/d/https://drive.google.com/file/d/1RE_DMzGqqX9bOusmIpKGEj7h_4UF3kWE/view?usp=sharing)
+the results will be saved in `Enhancement/results/NtireLL`, also, the final result can be downloaded [here](https://drive.google.com/file/d/1RE_DMzGqqX9bOusmIpKGEj7h_4UF3kWE/view?usp=sharing)
 
 ## Acknowledgments
 
