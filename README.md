@@ -38,7 +38,7 @@ cd SYSU-FVL-T2
 2. Make conda environment
 
 ```
-conda create -n sysuenv python=3.7
+conda create -n sysuenv python=3.8
 conda activate sysuenv
 ```
 
