@@ -22,7 +22,7 @@ The aim is to obtain a network design / solution capable to produce high quality
 
 ## About The Project
 
-We follow the network architecture design of [**UHDM**](https://github.com/CVMI-Lab/UHDM) and progressive training strategy of **[MIRNet-v2](https://github.com/swz30/MIRNetv2/)**.
+We follow the multi-scale network and supervision of [**UHDM**](https://github.com/CVMI-Lab/UHDM) and progressive training strategy of **[MIRNet-v2](https://github.com/swz30/MIRNetv2/)**.
 
 ## Installation
 
@@ -80,7 +80,7 @@ cd Enhancement
 python test.py --input_dir [your input data path]
 ```
 
-the results will be saved in `Enhancement/results/NtireLL`, also, the final result can be downloaded [here]([url](https://drive.google.com/file/d/1ntT2aAxnMQr3lioxtiwbyuJyVaVb07Sd/view?usp=drive_link))
+the results will be saved in `Enhancement/results/NtireLL`, also, the final result can be downloaded [here](https://drive.google.com/file/d/1ntT2aAxnMQr3lioxtiwbyuJyVaVb07Sd/view?usp=drive_link)
 
 ## Acknowledgments
 
