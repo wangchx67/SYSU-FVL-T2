@@ -6,7 +6,7 @@
 
 ## News:
 
-- we are currently leading in the testing phase！
+- 2024.3.21: we are currently leading in the testing phase :grinning: :grinning:！
 
   ![rank](https://github.com/wangchx67/SYSU-FVL-T2/blob/main/figs/rank.png)
 
