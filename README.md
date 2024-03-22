@@ -80,7 +80,7 @@ cd Enhancement
 python test.py --input_dir [your input data path]
 ```
 
-the results will be saved in `Enhancement/results/NtireLL`, also, the final result can be downloaded [here](https://drive.google.com/file/d/1ntT2aAxnMQr3lioxtiwbyuJyVaVb07Sd/view?usp=drive_link)
+the results will be saved in `Enhancement/results/NtireLL`, also, the final result can be downloaded [here](https://drive.google.com/file/d/https://drive.google.com/file/d/1RE_DMzGqqX9bOusmIpKGEj7h_4UF3kWE/view?usp=sharing)
 
 ## Acknowledgments
 
