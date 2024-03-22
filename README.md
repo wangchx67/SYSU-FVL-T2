@@ -90,3 +90,5 @@ This repo is built based on
 - **[MIRNet-v2](https://github.com/swz30/MIRNetv2/)**
 
 We really appreciate their excellent works!
+
+We also thank the computational sources supported by [Frontier Vision Lab](https://fvl2020.github.io/fvl.github.com/), SUN YAT-SEN University.
