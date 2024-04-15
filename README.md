@@ -9,6 +9,7 @@
 - 2024.3.21: we are currently leading in the testing phase :grinning: :grinning:！
 
   ![rank](https://github.com/wangchx67/SYSU-FVL-T2/blob/main/figs/rank.png)
+- 2024.4.4： We won the championship!
 
 ## Description
 
